@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Rajnandani! 👋
 
-<!--
-**rajnandanisoni/rajnandanisoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I'm a Data Geek, Learner, and Enthusiast!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ------- Project with IIM Indore
+- 🌱 I’m currently learning Model Deployment
+- 💬 Ask me about all the New AI Tech
+- 📫 Reach me: @mail@gmail.com
+- ⚡ Fun fact: I know a lot about new tech - AI, Blockchain etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksv03&label=Profile%20views&color=0e75b6&style=flat" alt="rajnandani" /> </p>
+
+
+### 📊 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajnandani&show_icons=true&theme=radical)
+
+### 📚 Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnandani&layout=compact&theme=radical)
+
+### 🤝 Connect with me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnandanisoni2000)
