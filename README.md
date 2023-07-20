@@ -2,10 +2,10 @@
 
 ## 🌱 I'm a Data Geek, Learner, and Enthusiast!
 
-- 🔭 I’m currently working on ------- Project with IIM Indore
+
 - 🌱 I’m currently learning Model Deployment
-- 💬 Ask me about all the New AI Tech
-- 📫 Reach me: @mail@gmail.com
+  
+- 📫  rajnandanisoni2023@mail@gmail.com
 - ⚡ Fun fact: I know a lot about new tech - AI, Blockchain etc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksv03&label=Profile%20views&color=0e75b6&style=flat" alt="rajnandani" /> </p>
